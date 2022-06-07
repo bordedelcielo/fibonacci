@@ -1,0 +1,1 @@
+A demonstration of the Fibonacci sequence with clean console output.
